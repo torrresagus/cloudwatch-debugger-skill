@@ -1,0 +1,9 @@
+# Generated config (contains account-specific data)
+config.json
+
+# Log output files (may contain sensitive data)
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
